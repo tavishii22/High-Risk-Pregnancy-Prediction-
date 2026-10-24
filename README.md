@@ -1,1 +1,1 @@
-# High-Risk-Pregnancy-Prediction-
+# HIGH-RISK-PREGNANCY-DETECTION
